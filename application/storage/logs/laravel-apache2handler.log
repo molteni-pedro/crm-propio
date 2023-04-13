@@ -1,0 +1,1 @@
+[2023-04-06 05:58:15] production.ERROR: required information is missing (directory or filename) {"process":"[attachments-app-logo]","ref":"c63a84f","function":"processAppLogo","file":"AttachmentRepository.php","line":258,"path":"/app/application/app/Repositories/AttachmentRepository.php","data":{"directory":null,"filename":null,"logo_size":null}} 
